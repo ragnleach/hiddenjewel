@@ -1,0 +1,15 @@
+d:\onedrive\documents\visual studio 2015\Projects\hiddenjewel\hiddenjewel\bin\Debug\hiddenjewel.exe.config
+d:\onedrive\documents\visual studio 2015\Projects\hiddenjewel\hiddenjewel\obj\Debug\hiddenjewel.csprojResolveAssemblyReference.cache
+d:\onedrive\documents\visual studio 2015\Projects\hiddenjewel\hiddenjewel\obj\Debug\Interop.RDPCOMAPILib.dll
+d:\onedrive\documents\visual studio 2015\Projects\hiddenjewel\hiddenjewel\obj\Debug\hiddenjewel.csproj.ResolveComReference.cache
+d:\onedrive\documents\visual studio 2015\Projects\hiddenjewel\hiddenjewel\obj\Debug\hiddenjewel.Form1.resources
+d:\onedrive\documents\visual studio 2015\Projects\hiddenjewel\hiddenjewel\obj\Debug\hiddenjewel.Properties.Resources.resources
+d:\onedrive\documents\visual studio 2015\Projects\hiddenjewel\hiddenjewel\obj\Debug\hiddenjewel.csproj.GenerateResource.Cache
+d:\onedrive\documents\visual studio 2015\Projects\hiddenjewel\hiddenjewel\bin\Debug\hiddenjewel.exe
+d:\onedrive\documents\visual studio 2015\Projects\hiddenjewel\hiddenjewel\bin\Debug\hiddenjewel.pdb
+d:\onedrive\documents\visual studio 2015\Projects\hiddenjewel\hiddenjewel\obj\Debug\hiddenjewel.exe
+d:\onedrive\documents\visual studio 2015\Projects\hiddenjewel\hiddenjewel\obj\Debug\hiddenjewel.pdb
+D:\OneDrive\Documents\Visual Studio 2015\Projects\hiddenjewel\hiddenjewel\bin\Debug\hiddenjewel.exe.manifest
+D:\OneDrive\Documents\Visual Studio 2015\Projects\hiddenjewel\hiddenjewel\bin\Debug\hiddenjewel.application
+D:\OneDrive\Documents\Visual Studio 2015\Projects\hiddenjewel\hiddenjewel\obj\Debug\hiddenjewel.exe.manifest
+D:\OneDrive\Documents\Visual Studio 2015\Projects\hiddenjewel\hiddenjewel\obj\Debug\hiddenjewel.application
